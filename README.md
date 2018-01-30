@@ -304,7 +304,7 @@ public class OAuthWebSecurityConfigurer extends WebSecurityConfigurerAdapter {
 
 
 
-###resource server
+### resource server
 
 上面获取了token 下面说下资源服务器
 
